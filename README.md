@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/luisjaviercastillorabanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisjaviercastillorabanal" height="30" width="40" /></a>
 </p>
-## 📊 GitHub Stats:
 
+# 📊 GitHub Stats:
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=luisjavcr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
@@ -25,12 +25,6 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisjavcr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luisjavcr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=luisjavcr10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisjavcr10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
 ### 🧑‍🎨 Frontend
