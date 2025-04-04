@@ -2,17 +2,8 @@
 <h3 align="center">A passionate full stack developer from Peru 🇵🇪</h3>
 
 - 🔭 I’m currently working on [AuditAI](https://github.com/luisjavcr10/front-audit-ai)
-
-- 🌱 I’m currently learning **Node.js with GraphQL**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-luisc.vercel.app/](https://portfolio-luisc.vercel.app/)
-
 - 📫 How to reach me **ing.castillorabanal@gmail.com**
-
-# 🌐 Contact with me:
-<p align="left">
-<a href="https://linkedin.com/in/luisjaviercastillorabanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisjaviercastillorabanal" height="30" width="40" /></a>
-</p>
 
 # 📊 GitHub Stats:
 <table>
@@ -55,6 +46,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+# 🌐 Contact with me:
+<p align="left">
+<a href="https://linkedin.com/in/luisjaviercastillorabanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisjaviercastillorabanal" height="30" width="40" /></a>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=luisjavcr10&icon=0&color=0)](https://visitcount.itsvg.in)
 
