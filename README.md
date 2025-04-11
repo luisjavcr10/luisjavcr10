@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Peru 🇵🇪</h3>
 
 - 🔭 I’m currently working on [AuditAI](https://github.com/luisjavcr10/front-audit-ai)
-- 👨‍💻 All of my projects are available at [https://portfolio-luisc.vercel.app/](https://portfolio-luisc.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-luisc.vercel.app/)
 - 📫 How to reach me **ing.castillorabanal@gmail.com**
 
 # 📊 GitHub Stats:
